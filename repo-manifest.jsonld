@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/mistletoe-ebp/commit/229812436726fd9b1af85c6e66ff8c81b415758d",
       "git:hexsha": "229812436726fd9b1af85c6e66ff8c81b415758d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/mistletoe-ebp/commit/d7247b52df3ff50dc71aef9ec3f8e7b316b03813",
